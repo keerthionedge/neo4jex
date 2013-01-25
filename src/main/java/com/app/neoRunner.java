@@ -56,7 +56,6 @@ public class neoRunner {
         }
         registerShutdownHook(graphDatabase);
 
-
     }
 
 
